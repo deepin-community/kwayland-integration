@@ -1,0 +1,1 @@
+rm_conffile /etc/xdg/kwindowsystem.kwayland.categories 5.17.5~
